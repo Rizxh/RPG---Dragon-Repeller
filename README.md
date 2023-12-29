@@ -1,7 +1,7 @@
 # Role Playing Game Dragon Repeller (BETA)
 ![alt text](https://github.com/Rizxh/RPG_Dragon_Repeller/blob/main/img/dragon-repeller.png?raw=true)
 
-RPG - Dragon Repeller
+<strong>RPG - Dragon Repeller</strong> <br> <br>
 How to play it?
 1. Click this link below: https://rpg-dragon-repeller.vercel.app/
 2. Buy weapon and fight all monster until your xp > 30 (Don't fight dragon before your xp > 30).
